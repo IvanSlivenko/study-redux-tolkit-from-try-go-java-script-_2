@@ -1,7 +1,23 @@
 https://youtu.be/_j4k73zoy5Y
 
+npm install
+
+npm install @reduxjs/toolkit
+npm  install react-redux
+
+
+1   create store
+
+store -> userSlice -> User -> FirstName
+
+..............
+ 21 : 44 
+..............
+
+npm install uuid
+
 
 
 
 ----------------------------------------
-00 : 00 : 00
+00 : 43 : 14
