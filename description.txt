@@ -16,6 +16,8 @@ store -> userSlice -> User -> FirstName
 
 npm install uuid
 
+npm i axios
+
 
 
 
